@@ -1,3 +1,4 @@
+# 这个是git训练加的改动
 # 声明：本资料仅供内部学习交流使用，切勿外传。金程教育
 # AQF:Python ADX Strategy for Oanda v20
 #

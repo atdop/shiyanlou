@@ -1,4 +1,4 @@
 #encoding:utf-8
 import time
 
-print(time.time.now())
+print(time.now())
